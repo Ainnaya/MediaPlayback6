@@ -1,7 +1,7 @@
 # IDENTITAS:
 Nama: Ainnaya Nur Akasah
 
-Kelas / No Urut: XIRPL4 / 02
+Kelas / No Urut: XIIRPL6 / 03
 
 NIS: 4653/1372.070
 
@@ -30,7 +30,5 @@ tentang musik klasik dimana pada zaman sekarang ini mulai terlupakan.
 
 # CONTOH GAMBAR:
 
-<img src="https://github.com/Ainnaya/MediaPlayback6/blob/8977ece6d89b495ed207ca0dc3ee340f22931d50/1.%20Tampilan%20Awal.jpg" width="300" height="500"/>  
-<img src="https://github.com/Ainnaya/MediaPlayback6/blob/8977ece6d89b495ed207ca0dc3ee340f22931d50/2.%20Kuis.jpg" width="300" height="500"/>
-<img src="https://github.com/Ainnaya/MediaPlayback6/blob/8977ece6d89b495ed207ca0dc3ee340f22931d50/3.%20Cek%20Jawaban.jpg" width="300" height="500"/>
-<img src="https://github.com/Ainnaya/MediaPlayback6/blob/8977ece6d89b495ed207ca0dc3ee340f22931d50/4.%20Skor.jpg" width="300" height="500"/>
+<img src="https://github.com/Ainnaya/MediaPlayback6/blob/8977ece6d89b495ed207ca0dc3ee340f22931d50/1.%20Tampilan%20Awal.jpg" width="300" height="500"/>  <img src="https://github.com/Ainnaya/MediaPlayback6/blob/8977ece6d89b495ed207ca0dc3ee340f22931d50/2.%20Kuis.jpg" width="300" height="500"/>
+<img src="https://github.com/Ainnaya/MediaPlayback6/blob/8977ece6d89b495ed207ca0dc3ee340f22931d50/3.%20Cek%20Jawaban.jpg" width="300" height="500"/>  <img src="https://github.com/Ainnaya/MediaPlayback6/blob/8977ece6d89b495ed207ca0dc3ee340f22931d50/4.%20Skor.jpg" width="300" height="500"/>
